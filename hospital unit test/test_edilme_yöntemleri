@@ -1,0 +1,10 @@
+terminali kullanarak
+önce !pip install pytest ile indirdim
+sonra pytest yazarak testimi run ettim 
+######## passed ekranı çıktı ve 0.25 seconds ########## testin ne kadar sürdüğünü belirtti
+pytest -v yi terminale yazarak hangi fonksiyonları passed ettiğini gösterdi tek tek
+!pip install coverage ı kullanarak coverage testi uyguladım
+coverage run test.py yazarak yürüttüm
+sonra coverage report yazarak rapor aldım.
+coverage testim de missingleri alarak inceledim
+coverage report -m yazarak 
